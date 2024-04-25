@@ -1,0 +1,16 @@
+librosa
+matplotlib
+nara_wpe
+natsort
+noisereduce
+numpy
+opencv-contrib-python
+# opencv-python
+pandas
+platformdirs
+PyQt6
+scikit-image
+scikit-learn
+scipy
+seaborn
+tensorflow

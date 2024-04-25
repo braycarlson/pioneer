@@ -1,0 +1,51 @@
+QComboBox {
+    combobox-popup: 0;
+}
+
+QFrame {
+    color: #000000;
+}
+
+QWidget {
+    background-color: #222222;
+    color: white;
+}
+
+QMenuBar {
+    background-color: #222222
+}
+
+QScrollArea {
+    border: none;
+}
+
+QMenu::item {
+    background-color: transparent;
+    color: white;
+}
+
+QMenu::item:selected {
+    background-color: #0078d4;
+    color: white;
+}
+
+QScrollBar::add-page:horizontal,
+QScrollBar::sub-page:horizontal,
+QScrollBar::add-page:vertical,
+QScrollBar::sub-page:vertical {
+    background-color: #333333
+}
+
+#Generate, #Save {
+    background-color: #0078d4;
+}
+
+FilterWidget QLabel {
+    background-color: transparent;
+    color: white;
+}
+
+FilterWidget QPushButton {
+    background-color: transparent;
+    border: none;
+}
