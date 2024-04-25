@@ -1,8 +1,8 @@
 ## Pioneer
 
-Pioneer is a tool to explore image processing techniques using a graphics editor. The objective was to explore the effects and relationships between image processing techniques from different packages, and determine settings that could be used for accurate image segmentation in my [undergraduate thesis](https://github.com/braycarlson/thesis).
+Pioneer is a tool to explore image processing techniques using a graphics editor. The objective was to explore the effects and relationships between image processing techniques from different packages (e.g., OpenCV, PIl and skimage), and determine settings that could be used for accurate image segmentation in my [undergraduate thesis](https://github.com/braycarlson/thesis).
 
-It is capable of previewing changes in real-time, hiding/showing filters, re-ordering the filters, and caching the images and parameters for faster previewing.
+It is capable of previewing changes in real-time, zooming in and out of the canvas, hiding/showing filters, re-ordering the filters, and caching the images and parameters for faster previewing.
 
 <p align="center">
     <img src="asset/pioneer.png" alt="A screenshot of the pioneer tool editing an image." width="100%"/>
